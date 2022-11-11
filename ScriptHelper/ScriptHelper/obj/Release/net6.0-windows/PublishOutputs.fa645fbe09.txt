@@ -1,0 +1,11 @@
+D:\ScriptWriter\ScriptHelper.exe
+D:\ScriptWriter\ScriptHelper.dll
+D:\ScriptWriter\ScriptHelper.deps.json
+D:\ScriptWriter\ScriptHelper.runtimeconfig.json
+D:\ScriptWriter\ScriptHelper.pdb
+D:\ScriptWriter\NPOI.OOXML.dll
+D:\ScriptWriter\NPOI.OpenXml4Net.dll
+D:\ScriptWriter\NPOI.OpenXmlFormats.dll
+D:\ScriptWriter\NPOI.dll
+D:\ScriptWriter\BouncyCastle.Crypto.dll
+D:\ScriptWriter\ICSharpCode.SharpZipLib.dll

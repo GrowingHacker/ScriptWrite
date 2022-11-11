@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>ScriptHelper</id>
+    <version>1.0.0</version>
+    <authors>ScriptHelper</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0-windows7.0">
+        <dependency id="NPOI" version="2.5.6" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net6.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WindowsForms" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="D:\ScriptHelper\ScriptHelper\bin\Release\net6.0-windows\ScriptHelper.runtimeconfig.json" target="lib\net6.0-windows7.0\ScriptHelper.runtimeconfig.json" />
+    <file src="D:\ScriptHelper\ScriptHelper\bin\Release\net6.0-windows\ScriptHelper.dll" target="lib\net6.0-windows7.0\ScriptHelper.dll" />
+  </files>
+</package>
